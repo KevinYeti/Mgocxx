@@ -1,0 +1,1 @@
+{"name":"wang","gender":"male","age":18,"city":"kunming","address":"中山南路50号302室对面的马路菜场","price":50.09,"num":10,"code":"00001","hello":"world","remark":"go"}
